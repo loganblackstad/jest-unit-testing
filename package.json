@@ -1,0 +1,22 @@
+{
+  "name": "jest-unit-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "add.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loganblackstad/jest-unit-testing.git"
+  },
+  "author": "Logan Blackstad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loganblackstad/jest-unit-testing/issues"
+  },
+  "homepage": "https://github.com/loganblackstad/jest-unit-testing#readme",
+  "devDependencies": {
+    "jest": "^26.6.1"
+  }
+}
